@@ -1,0 +1,6 @@
+# Predict Fuel Efficiency
+
+ POINTS TO BE NOTED
+
+*   Auto MPG dataset is used  to create a model to predict fuel efficiency of vehicles in the late 1970s and early 1980
+*  For the fuel efficency as one of the feature which is going to be predicted we will provide other important features like cylinders, displacement, horsepower and weight of the Vehicle during that period of time .
