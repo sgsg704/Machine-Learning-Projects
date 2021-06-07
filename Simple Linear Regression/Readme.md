@@ -18,7 +18,11 @@ You're sections headers will be used to reference location of destination.
 -   One variable, denoted  _x_, is regarded as the  **predictor**,  **explanatory**, or  **independent**  variable.
 -   The other variable, denoted  _y_, is regarded as the  **response**,  **outcome**, or  **dependent**  variable.
 
-Because the other terms are used less frequently today, we'll use the "**predictor**" and "**response**" terms to refer to the variables encountered in this course. The other terms are mentioned only to make you aware of them should you encounter them. Simple linear regression gets its adjective "simple," because it concerns the study of only one predictor variable. In contrast, multiple linear regression, which we study later in this course, gets its adjective "multiple," because it concerns the study of two or more predictor variables.
+**What is a simple linear regression model?**
+
+-Simple linear regression is a regression model that estimates the relationship between one independent variable and one dependent variable using a straight line. Both variables should be quantitative.
+
+-Linear regression most often uses mean-square error (MSE) to calculate the error of the mode
 
 
 #### Technologies
