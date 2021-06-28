@@ -1,0 +1,1 @@
+@this model is an basic implementation of cnn and finding the accuracy after which implemented with RESNET 50 Architecture with pretrained weights helped to skip few layers lowering the error rate in each layer also reduces the vanishing gradient 
