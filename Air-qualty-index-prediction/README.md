@@ -13,7 +13,7 @@ https://general-saver-b1f.notion.site/Air-Quality-index-prediction-810742bdd7f94
 - Google Colab /Notebooks etc etc
 - basic python Knowldege
 - stats
-- -machine learning basics 
+- machine learning basics 
 - machine learning algorithms 
 - deployment 
 
