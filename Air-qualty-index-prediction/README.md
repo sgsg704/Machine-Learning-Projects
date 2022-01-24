@@ -7,6 +7,11 @@ Here is the notion of the project which is basically all the steps involved in m
 
 https://general-saver-b1f.notion.site/Air-Quality-index-prediction-810742bdd7f94682bded8e2647efde64
 
+Preparing some modeling stuff which is very much necessary before implementing any project 
+
+Here is something which will give the complete flowchart of the project - https://whimsical.com/aqi-web-app-UVBLWDB9U7o4i7Vm7XHC89@2Ux7TurymN3QdRv2LByR
+
+
 #### Technologies
 
 - Python library
